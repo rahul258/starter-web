@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    learn rebase from Jayson taylor
 
 # TECHNOLOGY COLOPHON
 
